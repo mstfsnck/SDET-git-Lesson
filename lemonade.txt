@@ -3,4 +3,5 @@ lemonade recipe:
 2. Water
 3. Sugar
 4. Mint
-5. Cup
+5. Ice
+
